@@ -7,11 +7,11 @@ Discover how combinatorics and probability drive strategic decision-making in ba
 
 ## Project's Sections
 
-- Scenario 1: A bank wants to arrange 4 VIP customers in different orders for a premium service
-- Scenario 2: The bank selects 3 customers from a total of 10 for a promotion, and the order matters
-- Scenario 3: The bank generates 4-digit ATM PIN codes using the digits 0-9 (10 options)
-- Scenario 4: The bank selects 3 customers out of 10 for a joint loan, but the order does not matter
-- Scenario 5: A customer can hold 2 account types from a total of 3 types (Savings, Current, Business)
+- Scenario 1: A bank wants to arrange 4 VIP customers in different orders for a premium service (I used Permutation)
+- Scenario 2: The bank selects 3 customers from a total of 10 for a promotion and the order matters (I used Variation without Repetition)
+- Scenario 3: The bank generates 4-digit ATM PIN codes using the digits 0-9 (10 options) (I used Variation with Repetition)
+- Scenario 4: The bank selects 3 customers out of 10 for a joint loan, but the order does not matter (I used Combination without Repetition)
+- Scenario 5: A customer can hold 2 account types from a total of 3 types (Savings, Current, Business) (I used Combination with Repetition)
 
 
 ## Contact
